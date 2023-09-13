@@ -1,7 +1,8 @@
 ﻿string[] Fillarray(string  text) {
     System.Console.WriteLine(text);
     string[] array = Console.ReadLine()!.Split();
-    return array;}
+    return array;
+    }
 
 string[] Result (string[] words) {
     int counter = 0;
@@ -21,8 +22,12 @@ string[] Result (string[] words) {
 
 void Printarray(string[] arr){
     System.Console.WriteLine("Result: ");
-    System.Console.WriteLine(string.Join(" ", arr));}
-
+    arr = arr.Where(x => x != null).ToArray();
+    System.Console.WriteLine(string.Join(" ", arr));
+    }
+  
+    
+    
 //-----------------
 
 Printarray(Result(Fillarray("Enter words: ")));
