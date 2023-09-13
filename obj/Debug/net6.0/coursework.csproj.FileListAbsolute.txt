@@ -1,0 +1,15 @@
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.csproj.AssemblyReference.cache
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.GeneratedMSBuildEditorConfig.editorconfig
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.AssemblyInfoInputs.cache
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.AssemblyInfo.cs
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.csproj.CoreCompileInputs.cache
+/home/maria/geekbrains/programming/csharp/coursework/bin/Debug/net6.0/coursework
+/home/maria/geekbrains/programming/csharp/coursework/bin/Debug/net6.0/coursework.deps.json
+/home/maria/geekbrains/programming/csharp/coursework/bin/Debug/net6.0/coursework.runtimeconfig.json
+/home/maria/geekbrains/programming/csharp/coursework/bin/Debug/net6.0/coursework.dll
+/home/maria/geekbrains/programming/csharp/coursework/bin/Debug/net6.0/coursework.pdb
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.dll
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/refint/coursework.dll
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.pdb
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/coursework.genruntimeconfig.cache
+/home/maria/geekbrains/programming/csharp/coursework/obj/Debug/net6.0/ref/coursework.dll
